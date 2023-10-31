@@ -1,0 +1,96 @@
+<style>
+#search-header button.btn {
+    background: #cfad14;
+    box-shadow: inset 0 0 10px #cfad14;
+}
+.head-sub {
+    background: #cfad14;
+}
+.detalle-cnt input, .detalle-cnt textarea {
+    border: 1px solid #6b6b6b;
+}
+.detalle-cnt {
+    border: 1px dotted #fff;
+    background: #ffffff;
+}
+.top-list h4 {
+    font-size: 14px;
+    color: #837e7e;
+}
+.top-list h1 {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 0 7px;
+text-shadow: 1px 1px 5px grey;
+}
+#breadcrumb li:last-child, #breadcrumb li:last-child a {
+    cursor: default;
+    color: #cfad14;
+}
+#afscontainer1 {
+    min-height: 8px;
+}
+#afscontainer2 {
+    min-height: 0px;
+}
+#afscontainer3 {
+    min-height: 0px;
+}
+.items-list header h3 a {
+    color: white;text-shadow: 1px 1px 5px grey;
+}
+.top-list a {
+    font-size: 14px;
+    line-height: normal;
+}
+a {
+    color: #000000;
+    text-decoration: none;
+    line-height: inherit;
+}
+.top-list {
+    border-bottom: 1px dotted #ccc;
+    padding: 1px 0 1px;
+    margin: 0 0 1px;
+}
+ .top-list h1 span {
+    color: #ffffff;
+}
+.btn-red {
+    text-transform: uppercase;
+    font-size: 12px;
+    border-radius: 5px;
+    filter: drop-shadow(1px 1px 5px #979A9A);
+    background: #cfad14;
+    box-shadow: inset 0 0 10px #979A9A;
+    height: 30px;
+    font-weight: bold;
+}
+#mainFooter
+{display:none}
+#footer-top
+{display:none}
+a.pag-nav{font-weight:bold;color:#cfad14;padding:0 5px}
+a.pag-nav:hover{text-decoration:underline;color:#cfad14;}
+.paginator li a.active{color:#cfad14;cursor:default;background-image:-ms-linear-gradient(top, #ddd 0%, #fff 100%);background-image:-moz-linear-gradient(top, #ddd 0%, #fff 100%);background-image:-o-linear-gradient(top, #ddd 0%, #fff 100%);background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0, #ddd), color-stop(1, #fff));background-image:-webkit-linear-gradient(top, #ddd 0%, #fff 100%);background-image:linear-gradient(to bottom, #ddd 0%, #fff 100%);}
+.paginator{margin-bottom:15px}
+.paginator li a{width:25px;margin:0 2px;}
+img:hover {
+  box-shadow: 0 0 5px 4px #979A9A;
+}
+img {border-radius: 5px;}
+
+h1   {text-align: center;color: #f4f4f4;filter: drop-shadow(1px 1px 5px #979A9A);
+  border: px solid #;
+  border-radius: 3px;
+  padding: 4px;background-color: #cfad14;font-family: Helvetica;border: 2px solid #cfad14;border-radius: 3px;padding: 4px;}
+h3   {text-align: center;color: #f4f4f4;filter: drop-shadow(1px 1px 5px #979A9A);
+  border: px solid #;
+  border-radius: 3px;
+  padding: 5px;background-color: #cfad14;font-family: Helvetica;border: 2px solid #cfad14;border-radius: 3px;padding: 5px;}
+h4 {color: #white;font-family: Helvetica;}
+p    {color: #Gray;filter: drop-shadow(1px 1px 5px #979A9A);
+  border: px solid #;
+  border-radius: 3px;background-color: white
+ ;padding: 5px;}
+</style>
